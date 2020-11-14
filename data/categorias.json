@@ -1,0 +1,19 @@
+{
+    "categorias" : [
+        {
+            "id": "1",
+            "nombre": "Discos Duros",
+            "descripcion": "",
+            "estado": true,
+            "image": "img"
+        },
+        {
+            "id": "2",
+            "nombre": "Adaptador",
+            "descripcion": "",
+            "estado": true,
+            "image": "img"
+        }
+
+    ]
+}

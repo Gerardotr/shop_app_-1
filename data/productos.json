@@ -1,0 +1,96 @@
+{
+    "productos": [{
+            "id": "1",
+            "categoria": "1",
+            "nombre": "Disco duro Seagate 320GB 2.5 ST320LT007",
+            "precio": 30.00,
+            "descuento": 30,
+            "descripcion": "",
+            "estado": true,
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41QzLXa4b1L._AC_SY355_.jpg"
+        },
+        {
+            "id": "2",
+            "categoria": "1",
+            "nombre": "Disco duro Seagate 320GB Sata 3.5",
+            "precio": 35.00,
+            "descuento": 20,
+            "descripcion": "",
+            "estado": true,
+            "image": "https://www.rvsystem.info/web/wp-content/uploads/545210.jpg"
+        },
+        {
+            "id": "3",
+            "categoria": "1",
+            "nombre": "Disco duro Wester Digital 320GB 2.5 Pull WD3200BEKT",
+            "precio": 30.00,
+            "descuento": 30,
+            "descripcion": "",
+            "estado": true,
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71G2urHCGhL._AC_SY741_.jpg"
+        },
+        {
+            "id": "4",
+            "categoria": "2",
+            "nombre": "Adaptador Argom ARG-CB-0056 Display Port A VGA",
+            "precio": 13.00,
+            "descuento": 15,
+            "descripcion": "",
+            "estado": true,
+            "image": "https://cdn.shopify.com/s/files/1/2172/6563/products/ARG-CB-0056_1600x.jpg?v=1569176370"
+        },
+        {
+            "id": "5",
+            "categoria": "2",
+            "nombre": "Adaptador EVGA Molex 6 Pines a 8 Pines",
+            "precio": 5.00,
+            "descuento": 10,
+            "descripcion": "",
+            "estado": true,
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71eCI8RgzwL._AC_SL1500_.jpg"
+        },
+        {
+            "id": "6",
+            "categoria": "2",
+            "nombre": "Adaptador Mini Display Port a HDMI Xtech",
+            "precio": 14.00,
+            "descuento": 5,
+            "descripcion": "",
+            "estado": true,
+            "image": "https://www.xtechamericas.com/media/XTC-331_1.jpg"
+        },
+        {
+            "id": "7",
+            "categoria": "2",
+            "nombre": "Adaptador TEAM GROUP WT01 3in1 Type-C USB-A USB-C HDMI",
+            "precio": 45.00,
+            "descuento": 10,
+            "descripcion": "",
+            "estado": true,
+            "image": "https://images-na.ssl-images-amazon.com/images/I/7114rdWZdqL._SL1500_.jpg"
+        },
+        {
+            "id": "8",
+            "categoria": "2",
+            "nombre": "Adaptador USB-C to Micro USB 2.0 ADATA ACM2ADPPL-RBK",
+            "precio": 7.00,
+            "descuento": 10,
+            "descripcion": "",
+            "estado": true,
+            "image": "https://http2.mlstatic.com/D_Q_NP_988832-MLA31645560596_072019-O.webp"
+        },
+        {
+            "id": "9",
+            "categoria": "2",
+            "nombre": "Adaptador Xtech Mini DisplayPort a VGA XTC-340",
+            "precio": 16.00,
+            "descuento": 10,
+            "descripcion": "",
+            "estado": true,
+            "image": "https://baynao.com.do/baynao_images/1/product-5540-01.jpg"
+        }
+
+
+
+    ]
+}
